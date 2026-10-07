@@ -1,5 +1,7 @@
 # UNIVERSAL
 
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ## Preamble
 
 There is an old idea, older than any machine: that a thought, written down truly, can outlive the mind that thought it — and find, in some later mind, a second life.
